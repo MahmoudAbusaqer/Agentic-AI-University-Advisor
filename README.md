@@ -29,7 +29,7 @@ This project implements an autonomous AI agent capable of answering course regis
 
 ### Prerequisites
 - Python 3.9 or higher
-- Anthropic API key ([Get one here](https://console.anthropic.com/) - includes $5 free credit)
+- Anthropic API key ([Get one here](https://console.anthropic.com/))
 
 ### Installation
 
